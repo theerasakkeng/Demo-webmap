@@ -1,0 +1,13 @@
+
+.app-search{
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    background-color:#970b01;
+}
+.app-search-input{
+    outline-width:1 ;
+}
+.iconsearch{
+cursor: pointer;
+};
